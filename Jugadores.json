@@ -1,0 +1,62 @@
+[
+    {
+        "_id": {
+            "$oid": "663a14d403b3201d8a824610"
+        },
+        "nombre": "Nilson Garcia",
+        "edad": 22,
+        "posicion": "Portero",
+        "equipo": {
+            "nombre": "Los Ryzen",
+            "Ciudad": "Chia"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "663a214503b3201d8a824618"
+        },
+        "nombre": "Diego Fernandez",
+        "edad": 28,
+        "posicion": "Defensa",
+        "equipo": {
+            "nombre": "Lenovo",
+            "Ciudad": "Tocancipa"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "663a214503b3201d8a824619"
+        },
+        "nombre": "Carlos Fernandez",
+        "edad": 29,
+        "posicion": "Delantero",
+        "equipo": {
+            "nombre": "Primus",
+            "Ciudad": "Cajica"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "663a214503b3201d8a82461a"
+        },
+        "nombre": "Jonatan Rodriguez",
+        "edad": 31,
+        "posicion": "Volante izquierdo",
+        "equipo": {
+            "nombre": "Radeon",
+            "Ciudad": "Medellin"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "663a214503b3201d8a82461b"
+        },
+        "nombre": "Juan David Rios",
+        "edad": 30,
+        "posicion": "Volante Derecho",
+        "equipo": {
+            "nombre": "Chain Lube",
+            "Ciudad": "Zipaquira"
+        }
+    }
+]
